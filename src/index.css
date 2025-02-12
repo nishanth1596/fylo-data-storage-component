@@ -35,6 +35,7 @@ body {
 @media (min-width: 1024px) {
   body {
     background-image: url("./assets/bg-desktop.png");
-    background-position: top left;
+    background-position: bottom;
+    background-size: contain;
   }
 }
