@@ -28,7 +28,7 @@ function StorageInfo() {
         </div>
       </div>
 
-      <div className="dropShadow bg-1E2D69 relative w-full px-8 pt-8 pb-[3.25rem] sm:max-w-[540px] lg:mt-7">
+      <div className="dropShadow bg-1E2D69 relative w-full px-8 pt-8 pb-[3.25rem] sm:max-w-[540px] lg:mt-10 lg:pb-10">
         <span className="text-0C122C dropShadow lg:translate-x- absolute bottom-0 left-1/2 flex -translate-x-1/2 translate-y-1/2 items-center gap-2 rounded-[.625rem] bg-white px-6 py-4 text-xs leading-3.5 font-bold tracking-[1px] uppercase md:rounded-br-none lg:bottom-[9.5rem] lg:left-[65%] lg:-translate-y-0 xl:left-[79%]">
           <span className="text-[2.5rem] leading-10">185</span>{" "}
           <span className="opacity-50">GB Left</span>
